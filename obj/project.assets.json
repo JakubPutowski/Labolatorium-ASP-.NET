@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "D:\\Users\\jakub.putowski\\.nuget\\packages\\": {}
+    "C:\\Users\\jputo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\jakub.putowski\\RiderProjects\\Project\\Project\\Project.csproj",
+      "projectUniqueName": "C:\\Users\\jputo\\RiderProjects\\Labolatorium-ASP-.NET\\Project.csproj",
       "projectName": "Project",
-      "projectPath": "D:\\Users\\jakub.putowski\\RiderProjects\\Project\\Project\\Project.csproj",
-      "packagesPath": "D:\\Users\\jakub.putowski\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\jakub.putowski\\RiderProjects\\Project\\Project\\obj\\",
+      "projectPath": "C:\\Users\\jputo\\RiderProjects\\Labolatorium-ASP-.NET\\Project.csproj",
+      "packagesPath": "C:\\Users\\jputo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jputo\\RiderProjects\\Labolatorium-ASP-.NET\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "D:\\Users\\jakub.putowski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jputo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
